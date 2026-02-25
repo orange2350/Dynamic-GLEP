@@ -1,6 +1,7 @@
 # Dynamic-GLEP: Predicting Ligand Efficacy for Class A GPCRs through MD-Based Ensemble Docking and Transfer Learning
 
 ✅ Published in *Briefings in Bioinformatics*, 2026 
+
 😁 DOI: https://doi.org/10.1093/bib/bbag049
 
 This repository is the offical implementation of Dynamic-GLEP
