@@ -1,4 +1,4 @@
-# Dynamic-GLEP: Predicting Ligand Efficacy for Class A GPCRs through MD-Based Ensemble Docking and Transfer Learning
+# Dynamic-GLEP: a dynamics-informed deep learning framework for ligand efficacy prediction in representative Class A GPCRs.
 
 ✅ Published in *Briefings in Bioinformatics*, 2026 
 
